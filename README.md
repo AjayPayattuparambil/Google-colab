@@ -1,3 +1,3 @@
 # Google-colab
-Notebooks from colab
-REpo. to save friles from google colab
+Notebooks from colab.
+Repo. to save files from google colab
